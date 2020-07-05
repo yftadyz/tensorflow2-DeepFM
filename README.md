@@ -19,4 +19,5 @@ Just set column names you want to use in your dataframe and model struture, like
 
 # Reference
 [1] DeepFM: A Factorization-Machine based Neural Network for CTR Prediction, Huifeng Guo, Ruiming Tang, Yunming Yey, Zhenguo Li, Xiuqiang He.
+
 [2] https://github.com/ChenglongChen/tensorflow-DeepFM
