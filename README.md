@@ -1,4 +1,4 @@
-# tensorflow2-DeepFM
+# Tensorflow2-DeepFM
 This project includes a simple DeepFM[1] implementation with tensorflow2. Implementation is inspired by [2]. 
 
 # Features
