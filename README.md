@@ -5,7 +5,8 @@ This project includes a simple DeepFM[1] implementation with tensorflow2. Implem
 Convenient to train this model on a pandas dataframe dataset. 
 
 # Usage
-An example of Titanic is included to show how to use it.
+An example of Titanic is included to show how to use it. To run it, type 'python train.py' in your working directory.
+
 ```
 parameters={}
 parameters['fm_cols']=['sex', 'age', 'n_siblings_spouses', 'parch', 'fare',
